@@ -5,7 +5,7 @@
 3 - true
 4 - true
 5 - true
-6 - 5 - false
+6 - 5 olur - false
 7 - true
 8 - true
-9 -3 - false
+9 -3 olur - false
